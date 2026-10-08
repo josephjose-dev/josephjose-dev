@@ -3,7 +3,8 @@
 **Project:** Road Incident Management System  
 **Author:** Joseph S Jose · BITS Pilani, Dubai Campus  
 **Status:** Prototype  
-**Repository:** [RTA-ACCIDENT-AGENT](https://github.com/josephjose-dev/RTA-ACCIDENT-AGENT)
+**Repository:** :PRIVATE
+
 
 ## Overview
 
